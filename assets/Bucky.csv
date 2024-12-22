@@ -1,0 +1,11 @@
+id,name,image,Location,Address,lon,lat
+1,Graduation Bucky,stop1.png,Bascom Hall,"Bascom Hall, 500 Lincoln Dr, Madison, WI 53706",-89.40361063,43.07586759
+2,Game Day Bucky,stop2.png,University Book Store,711 State St,-89.3977582,43.07481678
+3,Ringo 2.0,stop3.png,State Street Brat," 603 State St, Madison",-89.39593367,43.07492672
+4,Ringo,stop4.png,Lowell Center,"610 Langdon St, Madison, WI 53703",-89.39478282,43.0762285
+5,"Bucky How'd You Get So FLY?"",Kollege klub""",stop5.png,"529 N Lake St, Madison","529 N Lake St, Madison",-89.39365576,43.07612334
+6,Friday Night Fish Fry,stop6.png,The Edgewater Hotel,"1001 Wisconsin Pl, Madison, WI 53703",-89.38898513,43.07956259
+7,Pieces of Wisconsin,stop7.png,The Madison Concourse Hotel and Governor’s Club,"1 W Dayton St, Madison, WI 53703",-89.38496948,43.07646646
+8,Bucky.exe,stop8.png,UW Credit Union,"44 E Mifflin St, Madison, WI 53703",-89.38420493,43.07638492
+9,Jump Around Bucky,stop9.png,The Great Dane Pub & Brewing Company,"123 E Doty St, Madison, WI 53703",-89.37941026,43.07457994
+10,Pucky,end.png,Hampton Inn & Suites Madison / Downtown,"440 W Johnson St, Madison, WI 53703",-89.38983503,43.07284572
